@@ -1,6 +1,6 @@
 👋🏻 Hello, I'm Grant. <br />
 📍I'm from Glasgow, Scotland. <br />
-💻 Currently ~~the family computer repair guy~~ learning full stack development at CodeYourFuture <br />
+💻 Currently ~~the family computer repair guy~~ learning @TheOdinPorject <br />
 📧 Contact me: grantjfrater@hotmail.com <br />
 <br />
 ![](https://komarev.com/ghpvc/?username=grantjfrater&color=green) 
